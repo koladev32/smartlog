@@ -1,0 +1,79 @@
+WARNING - 2023-09-09 05:48:40 - webhook failed with status: started, response body: %!s(MISSING)
+ERROR - 2023-09-09 22:42:45 - error initializing connection: dial tcp: lookup redis: no such host
+ERROR - 2023-09-09 22:44:29 - error initializing connection: dial tcp: lookup redis: no such host
+ERROR - 2023-09-09 22:46:41 - error initializing connection: dial tcp: lookup redis: no such host
+ERROR - 2023-09-09 22:47:22 - error initializing connection: dial tcp: lookup redis: no such host
+ERROR - 2023-09-09 22:49:06 - error initializing connection: dial tcp: lookup redis: no such host
+ERROR - 2023-09-09 22:49:42 - error initializing connection: dial tcp: lookup redis: no such host
+ERROR - 2023-09-09 22:50:01 - error initializing connection: dial tcp: lookup redis: no such host
+ERROR - 2023-09-09 22:50:06 - error initializing connection: dial tcp: lookup redis: no such host
+ERROR - 2023-09-09 22:50:28 - error initializing connection: dial tcp: lookup redis: no such host
+ERROR - 2023-09-09 22:51:06 - error initializing connection: dial tcp: lookup redis: no such host
+ERROR - 2023-09-09 22:51:16 - error initializing connection: dial tcp: lookup redis: no such host
+ERROR - 2023-09-09 22:51:38 - error initializing connection: dial tcp: lookup redis: no such host
+ERROR - 2023-09-09 22:54:40 - error sending webhook: Post "http://flask-api:5000/webhook": dial tcp: lookup flask-api: no such host
+ERROR - 2023-09-09 22:54:42 - error sending webhook: Post "http://flask-api:5000/webhook": dial tcp: lookup flask-api: no such host
+ERROR - 2023-09-09 22:54:46 - error sending webhook: Post "http://flask-api:5000/webhook": dial tcp: lookup flask-api: no such host
+ERROR - 2023-09-09 22:54:54 - error sending webhook: Post "http://flask-api:5000/webhook": dial tcp: lookup flask-api: no such host
+ERROR - 2023-09-09 22:55:10 - error sending webhook: Post "http://flask-api:5000/webhook": dial tcp: lookup flask-api: no such host
+ERROR - 2023-09-09 22:55:12 - error sending webhook: %!s(<nil>)
+ERROR - 2023-09-09 22:55:14 - error sending webhook: Post "https://webhook.site/733f43eb-eaad-4c17-b1a7-6dfc8853ecbc": EOF
+ERROR - 2023-09-09 22:55:19 - error sending webhook: %!s(<nil>)
+ERROR - 2023-09-09 22:55:29 - error sending webhook: %!s(<nil>)
+WARNING - 2023-09-09 22:55:42 - maximum retries reached: %!s(int=5)
+ERROR - 2023-09-09 22:55:46 - error sending webhook: %!s(<nil>)
+WARNING - 2023-09-09 22:56:18 - maximum retries reached: %!s(int=5)
+ERROR - 2023-09-09 22:57:49 - error sending webhook: %!s(<nil>)
+ERROR - 2023-09-09 22:57:51 - error sending webhook: Post "https://webhook.site/733f43eb-eaad-4c17-b1a7-6dfc8853ecbc": EOF
+ERROR - 2023-09-09 22:58:07 - error sending webhook: Post "https://webhook.site/733f43eb-eaad-4c17-b1a7-6dfc8853ecbc": net/http: TLS handshake timeout
+ERROR - 2023-09-09 22:58:15 - error sending webhook: Post "https://webhook.site/733f43eb-eaad-4c17-b1a7-6dfc8853ecbc": dial tcp: lookup webhook.site: no such host
+ERROR - 2023-09-09 22:58:27 - error sending webhook: %!s(<nil>)
+ERROR - 2023-09-09 22:58:27 - error sending webhook: %!s(<nil>)
+ERROR - 2023-09-09 22:58:27 - error sending webhook: %!s(<nil>)
+ERROR - 2023-09-09 22:58:28 - error sending webhook: %!s(<nil>)
+ERROR - 2023-09-09 22:58:28 - error sending webhook: %!s(<nil>)
+ERROR - 2023-09-09 22:58:29 - error sending webhook: %!s(<nil>)
+ERROR - 2023-09-09 22:58:29 - error sending webhook: Post "https://webhook.site/733f43eb-eaad-4c17-b1a7-6dfc8853ecbc": EOF
+ERROR - 2023-09-09 22:58:30 - error sending webhook: %!s(<nil>)
+ERROR - 2023-09-09 22:58:30 - error sending webhook: %!s(<nil>)
+ERROR - 2023-09-09 22:58:31 - error sending webhook: %!s(<nil>)
+ERROR - 2023-09-09 22:58:31 - error sending webhook: %!s(<nil>)
+ERROR - 2023-09-09 22:58:32 - error sending webhook: %!s(<nil>)
+ERROR - 2023-09-09 22:58:32 - error sending webhook: %!s(<nil>)
+ERROR - 2023-09-09 22:58:34 - error sending webhook: Post "https://webhook.site/733f43eb-eaad-4c17-b1a7-6dfc8853ecbc": EOF
+ERROR - 2023-09-09 22:58:34 - error sending webhook: %!s(<nil>)
+ERROR - 2023-09-09 22:58:35 - error sending webhook: %!s(<nil>)
+ERROR - 2023-09-09 22:58:36 - error sending webhook: %!s(<nil>)
+ERROR - 2023-09-09 22:58:37 - error sending webhook: %!s(<nil>)
+ERROR - 2023-09-09 22:58:37 - error sending webhook: %!s(<nil>)
+ERROR - 2023-09-09 22:58:42 - error sending webhook: %!s(<nil>)
+ERROR - 2023-09-09 22:58:43 - error sending webhook: %!s(<nil>)
+ERROR - 2023-09-09 22:58:43 - error sending webhook: %!s(<nil>)
+ERROR - 2023-09-09 22:58:45 - error sending webhook: %!s(<nil>)
+ERROR - 2023-09-09 22:58:45 - error sending webhook: %!s(<nil>)
+ERROR - 2023-09-09 22:58:45 - error sending webhook: %!s(<nil>)
+ERROR - 2023-09-09 22:59:00 - error sending webhook: %!s(<nil>)
+ERROR - 2023-09-09 22:59:00 - error sending webhook: %!s(<nil>)
+ERROR - 2023-09-09 22:59:01 - error sending webhook: %!s(<nil>)
+ERROR - 2023-09-09 22:59:01 - error sending webhook: %!s(<nil>)
+ERROR - 2023-09-09 22:59:01 - error sending webhook: %!s(<nil>)
+ERROR - 2023-09-09 22:59:02 - error sending webhook: %!s(<nil>)
+WARNING - 2023-09-09 22:59:04 - maximum retries reached: %!s(int=5)
+ERROR - 2023-09-09 22:59:30 - error sending webhook: %!s(<nil>)
+WARNING - 2023-09-09 22:59:32 - maximum retries reached: %!s(int=5)
+WARNING - 2023-09-09 22:59:32 - maximum retries reached: %!s(int=5)
+WARNING - 2023-09-09 22:59:33 - maximum retries reached: %!s(int=5)
+ERROR - 2023-09-09 22:59:33 - error sending webhook: %!s(<nil>)
+WARNING - 2023-09-09 22:59:33 - maximum retries reached: %!s(int=5)
+WARNING - 2023-09-09 22:59:33 - maximum retries reached: %!s(int=5)
+WARNING - 2023-09-09 22:59:34 - maximum retries reached: %!s(int=5)
+ERROR - 2023-09-09 22:59:38 - error sending webhook: %!s(<nil>)
+ERROR - 2023-09-09 22:59:48 - error sending webhook: %!s(<nil>)
+ERROR - 2023-09-09 23:00:06 - error sending webhook: %!s(<nil>)
+WARNING - 2023-09-09 23:00:38 - maximum retries reached: %!s(int=5)
+ERROR - 2023-09-09 23:03:17 - error sending webhook: %!s(<nil>)
+ERROR - 2023-09-09 23:03:21 - error sending webhook: %!s(<nil>)
+ERROR - 2023-09-09 23:03:26 - error sending webhook: %!s(<nil>)
+ERROR - 2023-09-09 23:03:35 - error sending webhook: %!s(<nil>)
+ERROR - 2023-09-09 23:03:54 - error sending webhook: %!s(<nil>)
+WARNING - 2023-09-09 23:04:26 - maximum retries reached: %!s(int=5)

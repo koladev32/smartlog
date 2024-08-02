@@ -1,0 +1,41 @@
+# Byte-compiled .pyc files
+*.pyc
+
+# Python package metadata
+*/*.egg-info
+*sdist
+
+# Python bytecode (.pyo files)
+*.pyo
+
+# Fabric file
+*.lock
+
+# Pipenv files
+Pipfile
+Pipfile.lock
+
+# NumPy
+*.npy
+
+# Pillow files
+*.png
+*.gif
+*.jpg
+*.tga
+*.bmp
+*.pbm
+*.pgm
+*.ppm
+*.xpm
+*.xbm
+*.xpm
+
+# GitPython files
+*/*.db
+
+# SQLAlchemy database files
+*.db
+*.sqlite3
+
+venv/
